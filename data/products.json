@@ -1,0 +1,145 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Diamantna rezalna plošča Best For Universal",
+            "image": "../images/pribor/diamantna-rezalna-plosca-best-for-universal-2868854.webp",
+            "price": 30.99,
+            "category": "Featured Products"
+        },
+        {
+            "id": 3,
+            "title": "Alumplast PEX-AL-PEX 10bar 16x2mm, 8m v kolutu",
+            "image": "./images/vodovod/alumplast-cev-domir-cev-pex-al-pex-10bar_95-16x2-mm-izol_-8mm-v-kolu_-1684276.jpg",
+            "price": 23.99,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Alumplast PEX-AL-PEX 10bar 95 16x2mm, v kolutu",
+            "image": "./images/vodovod/alumplast-cev-domir-cev-pex-al-pex-10bar_95-16x2-mm-v-kolutu-1686117.jpg",
+            "price": 23.99,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Diamantna rezalna plošča Best For Universal Turbo",
+            "image": "./images/pribor/diamantna-rezalna-plosca-best-for-universal-turbo-2868405.webp",
+            "price": 23.99,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Fiting/spojka unipipe PF 14/18-12/16",
+            "image": "./images/vodovod/fiting-unipipe-pf-spojka-red_14_18-12_16-824450.jpg",
+            "price": 9.19,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Diamantna razalna plošča Standard For Universal Turbo",
+            "image": "./images/pribor/diamantna-rezalna-plosca-standard-for-universal-turbo-2868410.webp",
+            "price": 23.99,
+            "category": "Featured Products"
+        },
+        {
+            "id": 10,
+            "title": "Fiting za alkaten ZGP 40 koleno dvojno",
+            "image": "./images/vodovod/fiting-za-alkaten-magnum-zgp-40-koleno-dvojno-2506018.jpg",
+            "price": 17.89,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Akumulatorska baterija GBA-12V-2.0Ah",
+            "image": "./images/električna-orodja/akumulatorska-baterija-gba-12v-2-0ah-1600z0002x.webp",
+            "price": 69.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 14,
+            "title": "Akumulatorska krožna žaga GKS 12V-26",
+            "image": "./images/električna-orodja/akumulatorska-krozna-zaga-gks-12v-26-06016a1001.webp",
+            "price": 149.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 15,
+            "title": "Akumulatorska baterija PROCORE 18V 12.0Ah",
+            "image": "./images/električna-orodja/akumulatorska-baterija-procore18v-12-0ah-1600a016gu.webp",
+            "price": 289.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 17,
+            "title": "Akumulatorska potopna žaga BITURBO GKT 18V-52 GC",
+            "image": "./images/električna-orodja/akumulatorska-potopna-zaga-biturbo-gkt-18v-52-gc-06016b4000.webp",
+            "price": 579.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 18,
+            "title": "Akumulatorska vbodna žaga GST 18V LI",
+            "image": "./images/električna-orodja/akumulatorska-vbodna-zaga-gst-18-v-li-b-06015a6100.webp",
+            "price": 479.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 19,
+            "title": "Akumulatorski ekscentrični brusilnik GSS 18V-10",
+            "image": "./images/električna-orodja/akumulatorski-ekscentricni-brusilnik-gss-18v-10-06019d0200.webp",
+            "price": 179.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 24,
+            "title": "Segmentna diamantna rezalna plošča Eco For Universal",
+            "image": "./images/pribor/segmentna-diamantna-rezalna-plosca-eco-for-universal-2868118.webp",
+            "price": 23.99,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Akumulatorski udarni vijačnik GDR 12V-105",
+            "image": "./images/električna-orodja/akumulatorski-udarni-vijacnik-gdr-12v-105-06019a6901.webp",
+            "price": 209.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 22,
+            "title": "Akumulatorski udarni vrtalnik GSB 12V-30",
+            "image": "./images/električna-orodja/akumulatorski-udarni-vrtalni-vijacnik-gsb-12v-30-06019g9102.webp",
+            "price": 124.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 24,
+            "title": "Akumulatorski suhomontažni vijačnik GTB 12V-11",
+            "image": "./images/električna-orodja/akumulatorski-vijacnik-za-suhomontazno-gradnjo-gtb-12v-11-06019e4003.webp",
+            "price": 179.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 25,
+            "title": "Akumulatorski vrtalni vijačnik GSR 12V-35",
+            "image": "./images/električna-orodja/akumulatorski-vrtalni-vijacnik-gsr-12v-35-06019h8000.webp",
+            "price": 159.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 26,
+            "title": "Akumulatorsko vrtalno kladivo BITURBO GBH 18V-45 C",
+            "image": "./images/električna-orodja/akumulatorsko-vrtalno-kladivo-biturbo-s-sistemom-sds-max-gbh-18v-45-c-0611913002.webp",
+            "price": 1100.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 27,
+            "title": "Začetni komplet 2x GBA 12V 6.0 Ah + GAL 12V-40",
+            "image": "./images/električna-orodja/zacetni-komplet-2-x-gba-12v-6-0ah-gal-12v-40-1600a01b20.webp",
+            "price": 259.99,
+            "category": "Trending Products"
+        }
+
+    ]
+}
